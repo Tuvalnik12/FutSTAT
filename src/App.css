@@ -1,0 +1,9 @@
+.app {
+	display: flex;
+	flex-direction: column;
+	position: relative;
+	min-height: 100vh;
+}
+.home__container {
+	max-height: 80%;
+}

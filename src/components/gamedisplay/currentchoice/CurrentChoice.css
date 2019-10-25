@@ -1,0 +1,21 @@
+.current-choice__container {
+	display: flex;
+	justify-content: center;
+	align-self: flex-start;
+	order: 0;
+}
+
+.title__league {
+	margin-right: 1em;
+	border: 0.5px solid blue;
+	border-radius: 0.5em;
+	padding: 1em;
+	color: #0376dd;
+}
+.title__fixture {
+	margin-right: 1em;
+	border: 0.5px solid blue;
+	border-radius: 0.5em;
+	padding: 1em;
+	color: #0376dd;
+}

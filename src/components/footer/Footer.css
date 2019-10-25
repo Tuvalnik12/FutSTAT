@@ -1,0 +1,23 @@
+.footer {
+	position: absolute;
+	bottom: 0;
+	z-index: -1;
+	display: flex;
+	flex-shrink: 0;
+	width: 100%;
+	text-align: center;
+	justify-content: space-around;
+	align-items: baseline;
+	background-color: #ff8855;
+	clear: both;
+}
+
+.footer__title {
+	font-size: 3em;
+	font-family: Reenie Beanie;
+}
+
+.footer__powered-by {
+	font-family: "Exo", sans-serif;
+	font-weight: bold;
+}
